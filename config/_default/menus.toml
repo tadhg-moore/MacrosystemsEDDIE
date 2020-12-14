@@ -9,8 +9,8 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
+  name = "Modules"
+  url = "modules"
   weight = 20
 
 [[main]]
@@ -19,16 +19,16 @@
   weight = 30
 
 [[main]]
-  name = "Events"
+  name = "Assessment"
   url = "event"
   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "Publications, Presentations & Workshops"
   url = "publication"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Feedback"
   url = "contact"
   weight = 60
