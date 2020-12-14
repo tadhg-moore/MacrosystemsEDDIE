@@ -1,0 +1,2 @@
+#Climate Change Effects on Lake Temperatures
+This module was developed by Carey, C.C., S. Aditya, K. Subratie, V. Daneshmand, R. Figueiredo, and K.J. Farrell. 24 August 2020. Macrosystems EDDIE: Climate Change Effects on Lake Temperatures. Macrosystems EDDIE Module 1, Version 2. http://module1.macrosystemseddie.org. Module development was supported by NSF DEB 1245707, ACI 1234983, EF 1702506, DBI 1933016, and DEB 1926050.
