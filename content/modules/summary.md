@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 20
 
 # Section title
 title: Summary
@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-Add any content to the body of the section here.
+This is the summary.
