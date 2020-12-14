@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Macrosystems EDDIE"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: lac_du_milieu_de_widescreen_456.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
